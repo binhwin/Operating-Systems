@@ -1,0 +1,1 @@
+The windows 10 security system is a primary function of the operating system. From the start of the system start up it will activate the latest antivirus to ensure protection. Windows defender has various options and settings to tinker and change specific security prefrences. Windows is always sure to consistentially update the antivirus system with new technology and fixes.
